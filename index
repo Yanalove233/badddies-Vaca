@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Social Media Business</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Social Media Services</h1>
+    <p>Helping your brand grow online.</p>
+    <nav>
+      <a href="https://instagram.com/yourhandle" target="_blank">Instagram</a>
+      <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a>
+      <a href="https://linkedin.com/in/yourhandle" target="_blank">LinkedIn</a>
+    </nav>
+  </header>
+
+  <section class="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Instagram Management - <strong>$200/month</strong></li>
+      <li>Content Creation - <strong>$150/post</strong></li>
+      <li>Brand Strategy Consulting - <strong>$300/session</strong></li>
+    </ul>
+  </section>
+
+ <section class="services"> <h2>Pricing Bundles</h2> <div class="pricing-cards"> <div class="card"> <h3>Starter</h3> <p>Perfect for individuals</p> <ul> <li>3 posts/week</li> <li>Basic engagement</li> <li>Monthly analytics</li> </ul> <p class="price">$150/mo</p> </div> <div class="card"> <h3>Pro</h3> <p>Best for growing brands</p> <ul> <li>Daily posts</li> <li>Community management</li> <li>Bi-weekly strategy call</li> </ul> <p class="price">$300/mo</p> </div> <div class="card"> <h3>Elite</h3> <p>For serious businesses</p> <ul> <li>Custom content & reels</li> <li>Influencer outreach</li> <li>Full analytics + reporting</li> </ul> <p class="price">$600/mo</p> </div> </div> </section>
